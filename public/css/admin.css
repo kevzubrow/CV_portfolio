@@ -1,0 +1,21 @@
+h1, th , h3  {
+	text-align: center;
+	color:black;
+}
+*{
+	background-color:#454544;
+	font-family: 'Special Elite', cursive;
+
+}
+
+th, td{
+	background-color:#999999;
+	color:black;
+}
+
+
+
+p.center{
+	margin:auto;
+}
+
